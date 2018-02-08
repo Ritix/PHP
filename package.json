@@ -1,0 +1,22 @@
+{
+  "name": "php",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritix/PHP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritix/PHP/issues"
+  },
+  "homepage": "https://github.com/Ritix/PHP#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
