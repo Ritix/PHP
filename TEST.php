@@ -13,3 +13,6 @@ for ($i = 0; $i < $ilgis; $i++){
 }
 
 
+$myName = "Rytis";
+$myAge = 22;
+echo $myName;

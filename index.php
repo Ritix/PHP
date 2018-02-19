@@ -16,3 +16,6 @@ for ($i = 0; $i < $ilgis; $i++) {
 
     echo $max . '<br>';
 }
+
+
+

@@ -9,8 +9,6 @@ $a = [[3, 4, 5],
 foreach ($a as $i){
 
 
-
-
     if (($i[0] + $i[1] > $i[2]) && ($i[1] + $i[2] > $i[0]) && ($i[2] + $i[0] > $i[1])){
 
         echo '<br>';
@@ -24,8 +22,8 @@ foreach ($a as $i){
         echo '<br>';
         echo 'Tai nera trikampis';
     }
-    echo '<br>';
 
+    echo '<br>';
     $trikampioTipas = array_unique($i);
 
     if (count($trikampioTipas) === 1){
