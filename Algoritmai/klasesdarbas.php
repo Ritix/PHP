@@ -1,6 +1,6 @@
 <?php
 
-Skaiciu nuo 1 iki 100 sudetis
+//Skaiciu nuo 1 iki 100 sudetis
 
 $suma = 0;
 
