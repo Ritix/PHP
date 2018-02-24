@@ -5,7 +5,9 @@ $ilgis = count($a);
 
 
 for ($i = 0; $i < $ilgis; $i++) {
+
     $max = $a[$i][0];
+
     $ilgis1 = count($a[$i]);
 
     for ($j = 0; $j < $ilgis1; $j++) {

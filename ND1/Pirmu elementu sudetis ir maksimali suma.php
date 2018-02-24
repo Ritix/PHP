@@ -8,7 +8,6 @@ $a = [[5, 15, 20, 25],
 
 $ilgis = count($a);
 $s = [];
-$suma = 0;
 
 for ($i = 0; $i < $ilgis; $i++){
 
@@ -24,7 +23,7 @@ for ($i = 0; $i < $ilgis; $i++){
 }
 
 echo ('Stulpeliu sumos: ' . ' ' . implode(", ",$s) . '<br>');
-echo 'max' . max($s);
+echo 'Didžiausia stulpelių suma: ' . max($s);
 
 
 //$a = [[5, 15, 20, 25],

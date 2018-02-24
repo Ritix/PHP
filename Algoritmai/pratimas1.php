@@ -3,7 +3,6 @@
 $a = [[1, 2, 3], [4, 5, 6]];
 $ilgis = count($a);
 
-var_dump($a);
 echo '<br>';
 
 for ($i = 0; $i < $ilgis; $i++){
@@ -21,9 +20,3 @@ for ($i = 0; $i < $ilgis; $i++){
 
 echo '<br>';
 
-foreach ($a as $i) {
-    if ($i % 2 === 0){
-        $i--;
-    }
-    var_dump($a);
-}
