@@ -8,3 +8,6 @@
 //
 //testuokite su masyvu:
 //$a = [[1, 3, 4], [2, 5], [2 => 3, 5 => 8], [1, 1, 5 => 1]];
+
+
+Nesupratau uzdavinio
